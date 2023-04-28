@@ -1,0 +1,65 @@
+body {
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  color: #FFFFFF;
+  background-image: url("https://images.unsplash.com/photo-1494000993071-4f7772a2a67c");
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+  font-family: "Raleway", sans-serif;
+  font-size: 48px;
+  font-weight: bold;
+  color: #7C9070;
+  text-align: center;
+  margin-top: 100px;
+}
+
+h2 {
+  font-family: "Raleway", sans-serif;
+  font-size: 32px;
+  font-style: italic; /* ajout de la propriété font-style */
+  color: #7C9070;
+  text-align: center;
+  margin-top: 30px;
+}
+
+h3 {
+  font-family: "Raleway", sans-serif;
+  font-size: 24px;
+  color: #FFFFFF;
+  text-align: center;
+  margin-top: 50px;
+}
+
+p {
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  color: #FFFFFF;
+  text-align: center;
+  margin-top: 50px;
+}
+
+a {
+  display: inline-block;
+  font-family: "Raleway", sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  color: #FFFFFF;
+  background-color: #7C9070;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: all 0.3s;
+  margin-top: 50px;
+}
+
+a:hover {
+  background-color: #CE2FAE;
+  color: #FFFFFF;
+  transform: scale(1.1);
+}
+/* ajout de la bannière */
+
